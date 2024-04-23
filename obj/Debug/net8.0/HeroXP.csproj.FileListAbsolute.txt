@@ -1,0 +1,14 @@
+D:\Projetos C#\HeroXP\HeroXP\bin\Debug\net8.0\HeroXP.exe
+D:\Projetos C#\HeroXP\HeroXP\bin\Debug\net8.0\HeroXP.deps.json
+D:\Projetos C#\HeroXP\HeroXP\bin\Debug\net8.0\HeroXP.runtimeconfig.json
+D:\Projetos C#\HeroXP\HeroXP\bin\Debug\net8.0\HeroXP.dll
+D:\Projetos C#\HeroXP\HeroXP\bin\Debug\net8.0\HeroXP.pdb
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.AssemblyInfoInputs.cache
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.AssemblyInfo.cs
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.csproj.CoreCompileInputs.cache
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.dll
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\refint\HeroXP.dll
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.pdb
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\HeroXP.genruntimeconfig.cache
+D:\Projetos C#\HeroXP\HeroXP\obj\Debug\net8.0\ref\HeroXP.dll
